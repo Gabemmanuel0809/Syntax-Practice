@@ -7,4 +7,5 @@
 5.) CombinedStructs.go - Demonstrates combining two different Structs into a single Struct</br>
 6.) EmbdStructs.go - Demonstrates the basics of Embedding a Struct</br>
 7.) Comp.go - Demonstrates a simple company hiring system using Structs and methods</br>
-8.) store.go - A simple in-memory store simulayion that can update and create a product</br>
+8.) Store.go - A simple in-memory store simulation that can update and create a product</br>
+9.) Admn.go - Demonstrates a simple role based powers using Structs and methods</br>
