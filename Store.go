@@ -40,13 +40,13 @@ func updateProd(store []Product) {
 		if(store[i].Name == prodName) {
 			var newName string 
 			fmt.Println("Enter the new name: ")
-      fmt.Scanf("%s", &newName)
+            fmt.Scanf("%s", &newName)
 
 			store[i].Name = newName
 			return
-		}
-	}
-}
+		 }
+	 }
+ }
 
 func main() {
    var store = []Product {
