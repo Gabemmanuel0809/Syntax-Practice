@@ -20,7 +20,7 @@ func (c *Company) Fire() {
 			 c.Employees = append(c.Employees[:i], c.Employees[i+1:]...)
 			 fmt.Println("Employee Fired")
 		 } else {
-			 fmt.println("Employee not found")
+			 fmt.Println("Employee not found")
 		 }
 	} 
 } 
