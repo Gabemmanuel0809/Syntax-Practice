@@ -11,4 +11,5 @@
 9.) Admn.go - Demonstrates a simple role based powers using Structs and Methods</br>
 10.) CompV2.go - Demonstrates deleting a value(firing an employee) using Structs and Methods</br> 
 11.) Ship.go - Demonstrates a simple ship firing behavior using Struct & Interface</br>
-12.) ErrHandling.go - Demonstrates a simple custom error handling in Go
+12.) ErrHandling.go - Demonstrates a simple custom error handling</br>
+13.) DepositErr.go - Demonstrates a simple error handling for a deposit value</br>
