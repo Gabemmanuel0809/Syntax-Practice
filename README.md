@@ -13,3 +13,4 @@
 11.) Ship.go - Demonstrates a simple ship firing behavior using Struct & Interface</br>
 12.) ErrHandling.go - Demonstrates a simple custom error handling</br>
 13.) DepositErr.go - Demonstrates a simple error handling for a deposit value</br>
+14.) Waitlist.go - Demonstrates a basic waitlist system using struct and interface</br>
