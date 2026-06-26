@@ -14,3 +14,4 @@
 12.) ErrHandling.go - Demonstrates a simple custom error handling</br>
 13.) DepositErr.go - Demonstrates a simple error handling for a deposit value</br>
 14.) Waitlist.go - Demonstrates a basic waitlist system using struct and interface</br>
+15.) Agechekr.go - Demonstrates the basic usage of basic error handling with data type conversion</br>
