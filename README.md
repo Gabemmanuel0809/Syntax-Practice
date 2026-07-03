@@ -17,4 +17,5 @@
 15.) Agechekr.go - Demonstrates the basic usage of basic error handling with data type conversion</br>
 16.) SImpleConcurrentTask.go - Demonstrates the basics of using channels and goroutines</br>
 17.) Inspector.go - Demonstrates the usage of Reflect alongside with goroutine and channel</br>
-18.) FlightInspector.go - Demonstrates communication between two goroutines via channels</br> 
+18.) FlightInspector.go - Demonstrates communication between two goroutines via channels</br>
+19.) Patrol.go - Demonstrates the usage of wait group alongside with channels and goroutines</br>
