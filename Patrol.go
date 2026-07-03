@@ -29,7 +29,7 @@ func Dive(a *Aircraft, dived chan<- struct{}, wg *sync.WaitGroup) {
 
 func DropLoad(a *Aircraft, dived <-chan struct{}, done chan<- struct{}, wg *sync.WaitGroup) {
    defer wg.Done()
-   <-dived // ./main.go:32:6: invalid operation: cannot receive from send-only channel dived (variable of type chan<- struct{})
+   <-dived 
 
    time.Sleep(time.Second)
 
