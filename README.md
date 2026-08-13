@@ -19,3 +19,4 @@
 17.) Inspector.go - Demonstrates the usage of Reflect alongside with goroutine and channel</br>
 18.) FlightInspector.go - Demonstrates communication between two goroutines via channels</br>
 19.) Patrol.go - Demonstrates the usage of wait group alongside with channels and goroutines</br>
+20.) Nodes.go - Demonstrates a basic communication between two channels</br>
